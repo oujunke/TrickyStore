@@ -1,3 +1,16 @@
+# To pass Google Play Integrity checks, follow these steps:
+## 1. Install [Magisk](https://github.com/topjohnwu/MagiskManager) or [KernelSU](https://github.com/tiann/KernelSU) or [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) and enable Zygisk (‌Required‌)
+## 2. Download the [‌PlayIntegrityFixFork‌](https://github.com/oujunke/PlayIntegrityFixFork) module (‌Required‌) (Device fingerprint spoofing)
+## 3. Download the [‌playcurlNEXT‌](https://github.com/oujunke/playcurlNEXT) module (Optional) (Automated fingerprint updates)
+## 4. Download the [‌TrickyStore‌](https://github.com/oujunke/TrickyStore) module (‌Required‌) (Device certificate configuration)
+## 5. Prepare a valid ‌KeyBox.xml‌ file (‌Required‌) (Device certificate spoofing)
+### (Note: Steps marked as "Required" are essential for bypassing integrity checks.)
+
+## 1. ‌Key Terms Clarification:‌
+
+## 2. ‌Zygisk‌: Magisk's Zygote injection mechanism for system-level modifications.
+## 3. ‌Fingerprint Spoofing‌: Mimicking a certified device's hardware/software profile.
+## 4. ‌KeyBox.xml‌: Contains cryptographic keys for device attestation.
 # Tricky Store (Fork)
 
 A trick of keystore. **Android 10 or above is required**.
