@@ -3,7 +3,7 @@
 ## 2. Download the [‌PlayIntegrityFixFork‌](https://github.com/oujunke/PlayIntegrityFixFork) module (‌Required‌) (Device fingerprint spoofing)
 ## 3. Download the [‌playcurlNEXT‌](https://github.com/oujunke/playcurlNEXT) module (Optional) (Automated fingerprint updates)
 ## 4. Download the [‌TrickyStore‌](https://github.com/oujunke/TrickyStore) module (‌Required‌) (Device certificate configuration)
-## 5. Prepare a valid ‌KeyBox.xml‌ file (‌Required‌) (Device certificate spoofing)
+## 5. Prepare a valid ‌KeyBox.xml‌ file (‌Required‌) (Device certificate spoofing)Free from [KeyBoxSell](https://t.me/KeyBoxSell)
 ### (Note: Steps marked as "Required" are essential for bypassing integrity checks.)
 
 ## 1. ‌Key Terms Clarification:‌
